@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.panasonic.deeplink.demoa",
+    "sha256_cert_fingerprints":
+    ["F9:E6:C5:D4:AA:13:2B:DC:C3:5C:5C:70:79:97:67:1A:9C:01:B7:6A:BE:32:FD:DF:1E:1B:4C:CA:EC:4A:7E:CB"]
+  }
+}]
